@@ -26,3 +26,32 @@ C:\Users\Lenovo ideapadGaming\Desktop\New folder (2)\notepad\obj\Debug\net7.0\re
 C:\Users\Lenovo ideapadGaming\Desktop\New folder (2)\notepad\obj\Debug\net7.0\notepad.pdb
 C:\Users\Lenovo ideapadGaming\Desktop\New folder (2)\notepad\obj\Debug\net7.0\notepad.genruntimeconfig.cache
 C:\Users\Lenovo ideapadGaming\Desktop\New folder (2)\notepad\obj\Debug\net7.0\ref\notepad.dll
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\appsettings.Development.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\appsettings.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\note-padd\public\manifest.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\note-padd\package-lock.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\note-padd\package.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\notepad.exe
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\notepad.deps.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\notepad.runtimeconfig.json
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\notepad.dll
+D:\GIT Projects\NotePad\notepad\bin\Debug\net7.0\notepad.pdb
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.csproj.AssemblyReference.cache
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.AssemblyInfoInputs.cache
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.AssemblyInfo.cs
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.csproj.CoreCompileInputs.cache
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets\msbuild.notepad.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets\msbuild.build.notepad.props
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.notepad.props
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.notepad.props
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets.build.json
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\staticwebassets.development.json
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\scopedcss\bundle\notepad.styles.css
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.dll
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\refint\notepad.dll
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.pdb
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\notepad.genruntimeconfig.cache
+D:\GIT Projects\NotePad\notepad\obj\Debug\net7.0\ref\notepad.dll

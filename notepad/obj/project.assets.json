@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo ideapadGaming\\Desktop\\New folder (2)\\notepad\\notepad.csproj",
+      "projectUniqueName": "D:\\GIT Projects\\NotePad\\notepad\\notepad.csproj",
       "projectName": "notepad",
-      "projectPath": "C:\\Users\\Lenovo ideapadGaming\\Desktop\\New folder (2)\\notepad\\notepad.csproj",
+      "projectPath": "D:\\GIT Projects\\NotePad\\notepad\\notepad.csproj",
       "packagesPath": "C:\\Users\\Lenovo ideapadGaming\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo ideapadGaming\\Desktop\\New folder (2)\\notepad\\obj\\",
+      "outputPath": "D:\\GIT Projects\\NotePad\\notepad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo ideapadGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
