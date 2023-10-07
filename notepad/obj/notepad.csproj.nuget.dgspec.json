@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT Projects\\NotePad\\notepad\\notepad.csproj": {}
+    "d:\\GIT Projects\\NotePad\\notepad\\notepad.csproj": {}
   },
   "projects": {
-    "D:\\GIT Projects\\NotePad\\notepad\\notepad.csproj": {
+    "d:\\GIT Projects\\NotePad\\notepad\\notepad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT Projects\\NotePad\\notepad\\notepad.csproj",
+        "projectUniqueName": "d:\\GIT Projects\\NotePad\\notepad\\notepad.csproj",
         "projectName": "notepad",
-        "projectPath": "D:\\GIT Projects\\NotePad\\notepad\\notepad.csproj",
+        "projectPath": "d:\\GIT Projects\\NotePad\\notepad\\notepad.csproj",
         "packagesPath": "C:\\Users\\Lenovo ideapadGaming\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT Projects\\NotePad\\notepad\\obj\\",
+        "outputPath": "d:\\GIT Projects\\NotePad\\notepad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo ideapadGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
